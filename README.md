@@ -1,6 +1,6 @@
 ![logo](http://i.imgur.com/8OVqBKx.png)
 
-Unity-Shoot
+RUN & SHOOT
 =============
 
 An attempt to use Unity-Ash to build a 2D multiplayer platformer> . With reference to Mike Cann example game Unity Ashteroids (https://github.com/mikecann/UnityAshteroids) .
